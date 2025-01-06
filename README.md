@@ -54,7 +54,6 @@ My Discord: Zeromaniac#0335
 [My Jinxxy Store](https://www.jinxxy.com/Zeromaniac)<br>
 [My Gumroad](https://zeromaniac.gumroad.com/?_gl=1*1wlufjf*_ga*MTg2ODI4ODkwMC4xNzE5MTMxNDkx*_ga_6LJN6D94N6*MTczNjE3MDk2NS4xNTUuMC4xNzM2MTcwOTY1LjAuMC4w)
 
-  
 <br>
 
   
@@ -66,8 +65,11 @@ My Discord: Zeromaniac#0335
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZeromaniacMc&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=ZeromaniacMc&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
